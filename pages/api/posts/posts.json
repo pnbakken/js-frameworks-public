@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "I rewatched all of the Sopranos over a month and I loved it",
+        "content": {
+            "subheading": "Is it still the best tv-series ever?",
+            "content": "It might be, yeah."
+        },
+        "post_image": "",
+        "associated_media_slug": "the-sopranos",
+        "post_author": "Author"
+
+    },
+
+    {
+        "id": 2,
+        "title": "Killing Commendatore",
+        "content": {
+            "subheading": "The master of surrealist mundanity",
+            "content": "I mostly enjoy Murakami, and I enjoyed reading this book over the summer."
+        },
+        "post_image": "",
+        "associated_media_slug": "killing-commendatore",
+        "post_author": "Author"
+    },
+
+    {
+        "id": 3,
+        "title": "No Man's Sky",
+        "content": {
+            "subheading": "The game I constantly keep replaying the first few hours of",
+            "content": "I've had this game since it first released back in 2016. Every time there's an update, I'll start a new game, play for 10-ish hours in total, then walk away until the next update. Next update I'll come back, forget what my character was doing last time and generally have a hard time getting back into it, and start over. Then I'll play for another 10-ish hours, walk away, and the cycle repeats."
+        },
+        "post_image": "",
+        "associated_media_slug": "no-mans-sky",
+        "post_author": "Author"
+    },
+
+    {
+        "id": 4,
+        "title": "the House of the Dead",
+        "content": {
+            "subheading": "or, Notes from a Dead House. Translations differ",
+            "content": "I am under no illusion that I can have anything new or useful to say about Dostoevsky, so I'll just say that he is considered a master of literature for good reasons."
+        },
+        "post_image": "",
+        "associated_media_slug": "the-house-of-the-dead",
+        "post_author": "Author"
+    },
+
+    {
+        "id": 5,
+        "title": "Preacher",
+        "content": {
+            "subheading": "I was thinking about things that should go on the 'good' list",
+            "content": "And Preacher seems like an obvious choice in the 'comics' category. An epic modernist western about a preacher who goes on the hunt to find God and hold him accountable for his actions towards humanity. A series that has stayed with me for years after I last read it."
+        },
+        "post_image": "",
+        "associated_media_slug": "preacher",
+        "post_author": "Author"
+    },
+
+    {
+        "id": 6,
+        "title": "I'm still thinking about the Sopranos",
+        "content": {
+            "subheading": "It's just so brilliant.",
+            "content": "This is just mock data, otherwise I'd feel compelled to spend a few days trying to actually come up with a good post about how spectacularly great this series is. James Gandolfini's performance alone; he embodies his role in a way no other actor in a tv-series has, that I can think of.  If for some reason you've never watched the Sopranos, you really should. If you haven't seen it in a while you should re-watch it. I spent a month and a half travelling this semester, and I had a really good time, and beginning watching the Sopranos during it was the highlight of it all."
+        },
+        "post_image": "https://res.cloudinary.com/dt8j2ptfq/image/upload/v1665838685/media_vault/Screenshot_2022-10-15_145444_mgyibi_e9ygnd.jpg",
+        "associated_media_slug": "the-sopranos",
+        "post_author": "Author"
+    }
+]

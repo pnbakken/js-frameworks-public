@@ -1,0 +1,33 @@
+{
+  "name": "js-frameworks-course-assignment-pnbakken",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.8",
+    "axios": "^1.1.2",
+    "bootstrap": "^5.2.2",
+    "next": "12.3.1",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.37.0",
+    "sass": "^1.55.0",
+    "swr": "^1.3.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/node": "18.8.3",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.4"
+  }
+}

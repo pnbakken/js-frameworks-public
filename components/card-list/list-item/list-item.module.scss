@@ -1,0 +1,29 @@
+@import "/styles/partials/base/base";
+
+.listItem {
+    width: 95%;
+    max-width: 300px;
+    align-self: strech;
+    border: 1px solid grey;
+    border-radius: 0.25rem;
+    color: $colour-font-primary;
+    text-decoration: none;
+
+
+
+    .customCard {
+        width: 100%;
+        gap: 20px;
+
+
+
+
+
+    }
+
+    .cardTitle {
+        text-align: center;
+    }
+
+    .cardBody {}
+}

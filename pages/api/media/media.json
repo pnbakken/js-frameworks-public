@@ -1,0 +1,47 @@
+[
+
+    {
+        "slug": "the-sopranos",
+        "name": "The Sopranos",
+        "creator": "David Chase",
+        "year_released": 1999,
+        "image": "https://res.cloudinary.com/dt8j2ptfq/image/upload/v1665400863/media_vault/w8Zzm39htcmAZr5Jq6VQijFccJF_pz9xhs.jpg",
+        "media_type": "series"
+    },
+    
+    {
+        "slug": "preacher",
+        "name": "Preacher",
+        "creator": "Garth Ennis",
+        "year_released": 1995,
+        "image": "https://res.cloudinary.com/dt8j2ptfq/image/upload/v1665407652/media_vault/2140701d54348f19064e85b9aa3939e1_vov1p7.jpg",
+        "media_type": "book"
+    },
+
+    {
+        "slug": "killing-commendatore",
+        "name": "Killing Commendatore",
+        "creator": "Haruki Murakami",
+        "year_released": 2017,
+        "image": "https://res.cloudinary.com/dt8j2ptfq/image/upload/v1665407775/media_vault/9781473549456-jacket-large_qzlgif.jpg",
+        "media_type": "book"
+    },
+
+    {
+        "slug": "no-mans-sky",
+        "name": "No Man's Sky",
+        "creator": "Hello Games",
+        "year_released": 2016,
+        "image": "https://res.cloudinary.com/dt8j2ptfq/image/upload/v1665407820/media_vault/no-mans-sky---beyond-version---button-1565744905061_h4jqkb.jpg",
+        "media_type": "game"
+    },
+
+    {
+        "slug": "the-house-of-the-dead",
+        "name": "The House of the Dead",
+        "creator": "Fyodor Dostoevski",
+        "year_released": 1861,
+        "image": "https://res.cloudinary.com/dt8j2ptfq/image/upload/v1665408654/media_vault/9781840226294_wt0qtq.jpg",
+        "media_type": "book"
+    }
+]
