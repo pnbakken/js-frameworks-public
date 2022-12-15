@@ -10,7 +10,7 @@ function FavouritesList() {
   const [favouritesPage, setFavouritesPage] = useState(null);
 
   useEffect(() => {
-    if (favourites.length > 0) {
+    if (favourites && favourites.length > 0) {
       setFavouritesPage(showFavourites(favourites));
     } else {
       setFavouritesPage(noFavourites());
