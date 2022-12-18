@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Things that are Good - JS Frameworks Course Assignment
+
+![image](https://res.cloudinary.com/dt8j2ptfq/image/upload/v1671121582/portfolio/projects/Screenshot_2022-12-15_172448_tk8tya.jpg)
+
+Blog-style prototype page made as a first look at NextJS
+
+[Hosted](dynamic-salamander-9a889d.netlify.app) on Netlify
+
+## Description
+
+Course assignment for the Javascript Frameworks module. Ended up being mostly an experiment with making an API with NextJS, and as a first attempt - it didn't end up too bad. The theme of the website is a media review/opinion-piece style blog. The API has two data-collections: media & posts - where each post has an associated media item.
+At the time of writing the features of the websites are:
+
+- Display a list of posts
+- Display one post
+- Add/remove post to favourites
+- If env. url variable is set appropriately: Log in to WP admin and receive auth token, log out.
+
+Features that could be added are:
+
+- Search/display posts by associated media item.
+- Display posts by author
+
+## Built With
+
+- [NextJS](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [SCSS](https://sass-lang.com/)
+- [Bootstrap](https://getbootstrap.com)
 
 ## Getting Started
 
-First, run the development server:
+### Installing
+
+1. Clone the repo:
+
+```bash
+git clone git@github.com:pnbakken/js-frameworks-public.git
+```
+
+2. Navigate to the downloaded folder, install the dependencies:
+
+```bash
+cd js-frameworks-public && npm install
+```
+
+### Running
+
+The site uses Axios to fetch as though from an external API, to meet the assignment requirements.
+If running locally: set .env variable NEXT_PUBLIC_BASE_URL to use appropriate port number.
+
+To enable WP login: set .env variable NEXT_PUBLIC_LOCAL_WORDPRESS_URL to your WP url. Does not need to be local.
+
+To run the app, run the following commands:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+I'm not looking for contributions at this time.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Contact
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[My LinkedIn page](https://www.linkedin.com/in/p%C3%A5l-bakken-0b2295204/)
