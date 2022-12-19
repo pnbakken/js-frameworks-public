@@ -4,7 +4,7 @@
 
 Blog-style prototype page made as a first look at NextJS
 
-[Hosted](dynamic-salamander-9a889d.netlify.app) on Netlify
+[Hosted](https://dynamic-salamander-9a889d.netlify.app) on Netlify
 
 ## Description
 
